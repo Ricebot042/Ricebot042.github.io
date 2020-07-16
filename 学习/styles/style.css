@@ -1,0 +1,20 @@
+body {
+	width: 800px
+	font-family: 宋体;
+	font-size: 20px;
+	background-color: #3A458B;
+	color: white;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+h1{
+	margin：0；
+	padding-top: 50px 380px;
+	color: #00AAAA;
+}
+img{
+	width: 500px;
+	display: block;
+	margin: 0 200px;
+
+}
